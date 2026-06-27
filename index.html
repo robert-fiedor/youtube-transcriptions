@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>YouTube Transcriptions</title>
+    <meta name="description" content="Public transcript archive generated from local YouTube transcriptions.">
+    <link rel="stylesheet" href="assets/styles.css?v=20260627172426">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Public Archive</p>
+          <h1>YouTube Transcriptions</h1>
+        </div>
+        <div class="summary" id="summary">Loading transcripts...</div>
+      </header>
+
+      <main class="workspace">
+        <aside class="sidebar" aria-label="Transcript list">
+          <div class="search-row">
+            <label class="sr-only" for="search">Search transcripts</label>
+            <input id="search" type="search" placeholder="Search transcripts">
+          </div>
+          <nav id="transcriptList" class="transcript-list"></nav>
+        </aside>
+
+        <section class="reader" aria-live="polite">
+          <div class="reader-toolbar">
+            <button class="icon-button" id="backButton" type="button" title="Back to list" aria-label="Back to list">
+              <span aria-hidden="true">←</span>
+            </button>
+            <div class="reader-meta">
+              <p id="sourceLabel">Select a transcript</p>
+              <h2 id="title">Choose a transcript from the list</h2>
+            </div>
+            <a class="source-link" id="sourceLink" href="#" target="_blank" rel="noreferrer">Source</a>
+          </div>
+
+          <article class="transcript-card">
+            <div class="stats" id="stats"></div>
+            <div class="transcript-text" id="transcriptText">
+              <p>Transcripts will appear here as readable text. Use the list to switch between videos.</p>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="assets/app.js?v=20260627172426"></script>
+  </body>
+</html>
