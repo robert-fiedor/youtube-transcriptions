@@ -1,0 +1,13 @@
+.DS_Store
+
+# Keep this repo transcript-only.
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.webm
+*.mov
+*.mkv
+tmp/
+audio/
+video/

@@ -1,0 +1,1127 @@
+1
+00:00:00,000 --> 00:00:04,360
+So recently I stumbled upon this wonderful article in Tin House's Writer's Notebook 2.
+
+2
+00:00:04,460 --> 00:00:08,000
+It was basically a schematic or a blueprint for how to put a short story together,
+
+3
+00:00:08,100 --> 00:00:10,940
+even if you've never written one before, and it was kind of genius.
+
+4
+00:00:11,220 --> 00:00:14,320
+The author was Antonio Nelson, who has published seven short story collections
+
+5
+00:00:14,320 --> 00:00:18,500
+and also published in this very tiny little magazine you've probably never heard of, The New Yorker.
+
+6
+00:00:18,560 --> 00:00:23,040
+So I figured, hey, this is somebody who I should really listen to about how to construct a short story.
+
+7
+00:00:23,140 --> 00:00:27,260
+I started my career writing short stories, I published a collection of short stories with Press 53,
+
+8
+00:00:27,260 --> 00:00:30,780
+and I won some big short story contests too, like Shenandoah and Third Coast,
+
+9
+00:00:30,880 --> 00:00:33,040
+and I got one published in the Chicago Tribune as well.
+
+10
+00:00:33,120 --> 00:00:37,600
+So I decided to test her short story method out, and I wrote it over a single day,
+
+11
+00:00:37,720 --> 00:00:39,600
+and it actually worked quite well.
+
+12
+00:00:39,700 --> 00:00:42,540
+And I even like it a week later, which is actually quite unusual.
+
+13
+00:00:42,740 --> 00:00:46,060
+Normally I'm like in my editor mode, and I'm like, kill, kill, delete, delete.
+
+14
+00:00:46,220 --> 00:00:49,400
+But no, I read it again, and I'm like, all right, this is actually good.
+
+15
+00:00:49,520 --> 00:00:52,740
+Now I tend not to like overly prescriptive advice when it comes to fiction writing,
+
+16
+00:00:52,740 --> 00:00:57,160
+but I found that these nine steps gave you plenty of leeway and creativity
+
+17
+00:00:57,160 --> 00:01:01,880
+while simultaneously giving enough framework to guide you in the writing of a short story.
+
+18
+00:01:02,000 --> 00:01:02,940
+So here are the nine steps.
+
+19
+00:01:03,060 --> 00:01:06,480
+And along the way, I'm going to give lots of examples from famous short stories,
+
+20
+00:01:06,540 --> 00:01:09,980
+and also explain how I wrote my short story using this advice.
+
+21
+00:01:10,240 --> 00:01:12,640
+One, write a story about something that's happened to you.
+
+22
+00:01:12,720 --> 00:01:16,980
+I think she starts with this because tapping into a story that you know from your own life
+
+23
+00:01:16,980 --> 00:01:21,980
+is a really good way to get to material with deeper weight that has real significance.
+
+24
+00:01:21,980 --> 00:01:26,860
+If you struggle with infertility, or you've gone through a divorce, or you suffered from a theft,
+
+25
+00:01:26,860 --> 00:01:30,320
+all of these things are elements that you can turn into a story.
+
+26
+00:01:30,540 --> 00:01:34,340
+And don't feel constrained by what actually happened in real life.
+
+27
+00:01:34,620 --> 00:01:37,580
+What happened in real life is just the starting point for your story.
+
+28
+00:01:37,660 --> 00:01:40,140
+Perhaps in real life, you had an illness which made you sick,
+
+29
+00:01:40,240 --> 00:01:43,760
+but in your story, you want to up the stakes a little bit, maybe make it life-threatening.
+
+30
+00:01:43,880 --> 00:01:47,700
+Perhaps you were in love with someone in real life, but to spice it up in the story,
+
+31
+00:01:47,820 --> 00:01:51,800
+you add another person who was vying for your beloved's attention.
+
+32
+00:01:51,960 --> 00:01:53,340
+And so now it's sort of this love triangle.
+
+33
+00:01:53,440 --> 00:01:56,700
+And when you look at short stories, there's actually quite a lot of famous short stories
+
+34
+00:01:56,700 --> 00:01:59,020
+that just draw from the author's experience.
+
+35
+00:01:59,260 --> 00:02:02,680
+James Baldwin's Sunny Blues draws from his experience growing up in Harlem.
+
+36
+00:02:02,840 --> 00:02:07,740
+Philip Ross' Goodbye Columbus draws from his experiences of growing up as a Jew in New Jersey.
+
+37
+00:02:07,860 --> 00:02:11,760
+Tim O'Brien's The Things They Carry draws from his experience of fighting in the Vietnam War.
+
+38
+00:02:11,860 --> 00:02:14,320
+And because Alice Munro just died, bless her heart,
+
+39
+00:02:14,380 --> 00:02:16,680
+I have to bring up her short story, Boys and Girls,
+
+40
+00:02:16,780 --> 00:02:19,320
+which mirrored her own upbringing in Canada.
+
+41
+00:02:19,320 --> 00:02:23,440
+For my short story, I'm a big chess player, so I wrote about going to a chess tournament.
+
+42
+00:02:23,560 --> 00:02:26,640
+And I did so thinking, hey, Queen's Gambit was amazing.
+
+43
+00:02:26,860 --> 00:02:29,000
+Everybody seemed to love and watch that show,
+
+44
+00:02:29,080 --> 00:02:32,040
+so I felt like there was a market there for this type of story.
+
+45
+00:02:32,160 --> 00:02:35,760
+Nelson's second step, write the same story from a different point of view.
+
+46
+00:02:35,880 --> 00:02:37,260
+Nelson, you're a genius.
+
+47
+00:02:37,500 --> 00:02:41,740
+This is an essential step because it's teaching you how to rotate between
+
+48
+00:02:41,740 --> 00:02:45,840
+a whole bunch of different perspectives to try to find the exact right perspective
+
+49
+00:02:45,840 --> 00:02:47,220
+to tell the story from.
+
+50
+00:02:47,220 --> 00:02:52,080
+After all, the best way to tell the story might not feature you as the main character.
+
+51
+00:02:52,240 --> 00:02:56,480
+Sometimes authors write pretty decent stories that would be amazing stories
+
+52
+00:02:56,700 --> 00:02:58,200
+if they were just told from a different point of view.
+
+53
+00:02:58,200 --> 00:03:01,020
+The neighbor's point of view, or the spouse's point of view,
+
+54
+00:03:01,020 --> 00:03:05,020
+the child's point of view, or even, say, the gun's point of view.
+
+55
+00:03:05,020 --> 00:03:08,300
+Yes, you can write a story from an inanimate POV.
+
+56
+00:03:08,340 --> 00:03:10,260
+Although don't try that tricky stuff too often.
+
+57
+00:03:10,300 --> 00:03:13,580
+Now, this is a great step because I don't think you can truly understand your story
+
+58
+00:03:13,580 --> 00:03:15,980
+until you've looked at it from multiple points of view.
+
+59
+00:03:16,020 --> 00:03:18,320
+Now, how do you choose between all these different points of view?
+
+60
+00:03:18,360 --> 00:03:23,300
+Ideally, you want to choose one from a perspective of someone who has something at stake in the story.
+
+61
+00:03:23,340 --> 00:03:25,560
+What's going to happen if they don't get what they want?
+
+62
+00:03:25,560 --> 00:03:27,160
+A wife might have her marriage at stake.
+
+63
+00:03:27,200 --> 00:03:29,080
+A husband might have his career at stake.
+
+64
+00:03:29,160 --> 00:03:32,440
+A neighbor might have his very happiness at stake.
+
+65
+00:03:32,440 --> 00:03:34,480
+And maybe he's considering suicide or something.
+
+66
+00:03:34,640 --> 00:03:36,180
+And as you're playing with these points of view,
+
+67
+00:03:36,280 --> 00:03:39,180
+don't forget that you might end up with a very weird point of view.
+
+68
+00:03:39,440 --> 00:03:42,540
+Like Jorge Luis Borges, he has a short story called The House of Asterion,
+
+69
+00:03:42,620 --> 00:03:45,180
+where he writes it from the perspective of a minotaur.
+
+70
+00:03:45,320 --> 00:03:49,000
+Yeah, that minotaur, like the Greek myth type of minotaur.
+
+71
+00:03:49,120 --> 00:03:53,140
+So don't be afraid of considering lots of options for what point of view you can tell the story from.
+
+72
+00:03:53,240 --> 00:03:55,260
+Now, for my story, I didn't make up my point of view.
+
+73
+00:03:55,260 --> 00:03:57,120
+I chose a character who was female.
+
+74
+00:03:57,260 --> 00:04:00,160
+So I had a strong feminine lead as the narrator.
+
+75
+00:04:00,420 --> 00:04:03,780
+Nelson's third step out of the nine is to create a ticking clock.
+
+76
+00:04:03,900 --> 00:04:06,600
+A ticking clock is a countdown to a particular event.
+
+77
+00:04:06,680 --> 00:04:10,060
+Think about how many high school stories have a countdown to prom at the end of the year.
+
+78
+00:04:10,160 --> 00:04:14,680
+Or think about how every single road trip is structured so we're looking forward to the end.
+
+79
+00:04:14,780 --> 00:04:18,520
+For any sort of summer romance, it's confined within the summer.
+
+80
+00:04:18,620 --> 00:04:21,620
+So we know there's an end point at the end of the summer when the story is going to end.
+
+81
+00:04:21,720 --> 00:04:23,760
+Ooh, I said end way too many times there.
+
+82
+00:04:23,760 --> 00:04:24,640
+End, end, end.
+
+83
+00:04:24,840 --> 00:04:25,080
+End.
+
+84
+00:04:25,260 --> 00:04:25,860
+End, end.
+
+85
+00:04:25,940 --> 00:04:28,920
+So a ticking clock pressurizes your book.
+
+86
+00:04:29,020 --> 00:04:31,420
+It gives the reader something to look forward to.
+
+87
+00:04:31,520 --> 00:04:34,620
+They are counting down until they reach that climactic event.
+
+88
+00:04:34,720 --> 00:04:37,740
+It creates tension in the story and it creates suspense in the story
+
+89
+00:04:37,740 --> 00:04:39,720
+because the reader wants to know how it's going to end.
+
+90
+00:04:39,800 --> 00:04:42,940
+Kind of like how in this video, you're looking forward to the ninth step of this guide.
+
+91
+00:04:43,040 --> 00:04:45,460
+I've structured this video so it's ticking towards the finale.
+
+92
+00:04:46,080 --> 00:04:47,520
+Think of the ticking clock of Cinderella.
+
+93
+00:04:47,760 --> 00:04:51,220
+We have that midnight hour and she's going to transform back.
+
+94
+00:04:51,220 --> 00:04:54,300
+And so we're anticipating that as readers to see what will happen.
+
+95
+00:04:54,420 --> 00:04:55,240
+Or a movie like Run.
+
+96
+00:04:55,260 --> 00:05:00,240
+Lola Run, where she has 20 minutes to find 100,000 Deutschmarks in order to save her boyfriend.
+
+97
+00:05:00,420 --> 00:05:01,720
+Or the recent show would be The Bear.
+
+98
+00:05:01,860 --> 00:05:05,640
+And this cooking show has a ticking clock in a lot of the episodes.
+
+99
+00:05:05,840 --> 00:05:08,160
+It's always super high stakes and super high pressure.
+
+100
+00:05:08,320 --> 00:05:09,040
+And they have a deadline.
+
+101
+00:05:09,200 --> 00:05:12,340
+One example from that show is Carmi's renovation of his restaurant.
+
+102
+00:05:12,440 --> 00:05:13,060
+Super expensive.
+
+103
+00:05:13,060 --> 00:05:17,740
+And he has 18 months to pay back Uncle Jimmy or else he's going to bulldoze the whole thing.
+
+104
+00:05:17,840 --> 00:05:21,420
+Now, for my story, the ticking clock was the countdown to the chess tournament, right?
+
+105
+00:05:21,420 --> 00:05:23,820
+At the beginning of the story, I announced the chess tournament.
+
+106
+00:05:23,960 --> 00:05:25,040
+And it's working towards.
+
+107
+00:05:25,260 --> 00:05:26,800
+That climactic event.
+
+108
+00:05:26,800 --> 00:05:28,560
+So we're waiting until it happens.
+
+109
+00:05:28,620 --> 00:05:31,140
+The fourth step is to create props or objects.
+
+110
+00:05:31,200 --> 00:05:34,660
+From Frodo's ring to that spinning top in Inception.
+
+111
+00:05:34,740 --> 00:05:37,680
+Objects are never merely objects in fiction.
+
+112
+00:05:37,720 --> 00:05:40,460
+They're always endowed with this potency.
+
+113
+00:05:40,500 --> 00:05:41,280
+They're totems.
+
+114
+00:05:41,280 --> 00:05:43,680
+They have this outsized power and meaning.
+
+115
+00:05:43,720 --> 00:05:46,280
+So the next step is to pick an object for your story.
+
+116
+00:05:46,320 --> 00:05:47,840
+This could be a bracelet.
+
+117
+00:05:47,920 --> 00:05:49,260
+It could be a stamp.
+
+118
+00:05:49,320 --> 00:05:51,140
+It could be a poker set.
+
+119
+00:05:51,220 --> 00:05:53,920
+Now, here's some advice on how to choose a good object.
+
+120
+00:05:53,960 --> 00:05:54,180
+One.
+
+121
+00:05:54,180 --> 00:05:55,260
+It's always good to have some sort of.
+
+122
+00:05:55,300 --> 00:05:57,420
+Sentimental attachment to that object.
+
+123
+00:05:57,460 --> 00:05:57,800
+Two.
+
+124
+00:05:57,840 --> 00:06:01,260
+Look for a way for that object to be involved in the plot in some way.
+
+125
+00:06:01,300 --> 00:06:03,380
+What does it make one of the characters do?
+
+126
+00:06:03,420 --> 00:06:05,440
+How does it change them throughout the story?
+
+127
+00:06:05,480 --> 00:06:07,580
+You want to make sure it's necessary for the story.
+
+128
+00:06:07,620 --> 00:06:09,700
+And if you took it out of the story, the story wouldn't work.
+
+129
+00:06:09,760 --> 00:06:10,280
+And three.
+
+130
+00:06:10,320 --> 00:06:17,180
+I would recommend trying to choose not a typical object, but a slightly rare or more unusual object.
+
+131
+00:06:17,220 --> 00:06:22,340
+An engagement ring might be a powerful object, but it might be also too cliche of an object.
+
+132
+00:06:22,380 --> 00:06:25,100
+Now, you don't want this object to appear only once.
+
+133
+00:06:25,100 --> 00:06:27,140
+It might be a symbol for a story.
+
+134
+00:06:27,200 --> 00:06:32,020
+You want to make sure you have a piece of the story that's inside the story and then just vanish during the second half.
+
+135
+00:06:32,060 --> 00:06:35,220
+Ideally, you'll have this object throughout all different points in the story.
+
+136
+00:06:35,260 --> 00:06:37,320
+Say, the beginning, the middle, and the end.
+
+137
+00:06:37,360 --> 00:06:41,820
+Now, if the entire story really does revolve around this object, then it's called a MacGuffin.
+
+138
+00:06:41,860 --> 00:06:46,240
+Think of the Philosopher's Stone in Harry Potter or the Heart of the Ocean necklace in Titanic.
+
+139
+00:06:46,280 --> 00:06:49,900
+But you don't have to have the entire story revolve around that central object.
+
+140
+00:06:49,940 --> 00:06:54,240
+It might just be sort of a symbolic object for one of the characters.
+
+141
+00:06:54,300 --> 00:06:55,000
+For an example of this.
+
+142
+00:06:55,000 --> 00:06:55,340
+The movie.
+
+143
+00:06:55,380 --> 00:06:58,340
+There were two shirts, one denim, one plaid that hung in the closet.
+
+144
+00:06:58,380 --> 00:07:00,180
+Those shirts really aren't a plot device.
+
+145
+00:07:00,220 --> 00:07:02,800
+They are more of a symbol of those cowboys love.
+
+146
+00:07:02,840 --> 00:07:06,760
+Now, for my story, I thought a chess piece was too cliche of an object, too obvious.
+
+147
+00:07:06,800 --> 00:07:13,380
+So instead, it was her father's championship football ring, which was all that she had left of him after he had died.
+
+148
+00:07:13,420 --> 00:07:16,680
+So to her, it symbolized the mindset of a champion.
+
+149
+00:07:16,720 --> 00:07:19,100
+Five, create a transitional situation.
+
+150
+00:07:19,140 --> 00:07:23,300
+This is probably the trickiest step out of all nine of them to understand and to implement.
+
+151
+00:07:23,340 --> 00:07:24,900
+So a transitional moment.
+
+152
+00:07:24,900 --> 00:07:31,820
+Is just some sort of crux in your character's lives when they are moving from one mode of existence to the next step of their existence.
+
+153
+00:07:31,860 --> 00:07:33,400
+It could be a job change.
+
+154
+00:07:33,440 --> 00:07:36,160
+It could be an actual move from one side of the country to the other.
+
+155
+00:07:36,200 --> 00:07:40,920
+It could be a move out of marriage or into one in a good man is hard to find by Flannery O'Connor.
+
+156
+00:07:40,960 --> 00:07:44,840
+It's when they take a road trip and end up getting lost in the secret life of Walter Mitty.
+
+157
+00:07:44,880 --> 00:07:54,880
+It's when Walter stops dreaming about taking adventures and actually goes on one in Minority Report, Tom Cruise's transition is when he stops being the lead of the pre-crime unit and starts.
+
+158
+00:07:54,900 --> 00:07:57,300
+Being the suspect of a crime that hasn't been committed.
+
+159
+00:07:57,340 --> 00:08:08,480
+Now, if you're trying to find your transitional moment, a good technique to do it is to say the phrase and then one day and figure out what happens that changes from the status quo to the new part of your character's existence.
+
+160
+00:08:08,520 --> 00:08:09,980
+That is your transitional moment.
+
+161
+00:08:10,020 --> 00:08:16,920
+And then one day now I have to say this in many short stories that transitional moment might be very small.
+
+162
+00:08:16,960 --> 00:08:18,100
+It might be very delicate.
+
+163
+00:08:18,140 --> 00:08:19,940
+It doesn't have to be life altering.
+
+164
+00:08:19,980 --> 00:08:24,320
+That's because so many writers have been trained in movies and novels.
+
+165
+00:08:24,360 --> 00:08:24,880
+So they're looking.
+
+166
+00:08:24,920 --> 00:08:26,560
+For these giant shifts.
+
+167
+00:08:26,600 --> 00:08:29,400
+But short stories are more delicate, subtle things.
+
+168
+00:08:29,440 --> 00:08:31,920
+You might need a very small transitional moment.
+
+169
+00:08:31,960 --> 00:08:35,400
+It might be a very internal transition for your character.
+
+170
+00:08:35,440 --> 00:08:37,200
+It might be some kind of epiphany.
+
+171
+00:08:37,240 --> 00:08:41,440
+In my story, it was my character deciding to participate in a chess tournament for the very first time.
+
+172
+00:08:41,480 --> 00:08:42,720
+She was out of her comfort zone.
+
+173
+00:08:42,760 --> 00:08:45,960
+She didn't know what was going to happen, but she decided to try.
+
+174
+00:08:46,000 --> 00:08:50,040
+The sixth step is to add a world event for the reader.
+
+175
+00:08:50,080 --> 00:08:53,280
+You want to connect the world to the story in some way.
+
+176
+00:08:53,320 --> 00:08:54,640
+Imagine being a reader.
+
+177
+00:08:54,640 --> 00:08:57,920
+And stepping into a short story where they have no reference points.
+
+178
+00:08:57,960 --> 00:08:59,320
+They don't know what's going on.
+
+179
+00:08:59,360 --> 00:09:00,960
+Perhaps they don't even know you as an author.
+
+180
+00:09:01,000 --> 00:09:08,880
+It makes it much easier to trust you as an author if they can step in and immediately see a famous figure they know or a historical event that they're familiar with.
+
+181
+00:09:08,920 --> 00:09:14,840
+For example, if a story takes place at a Thanksgiving dinner, the reader automatically has a connection to that story.
+
+182
+00:09:14,880 --> 00:09:16,840
+They've been like, oh, I've been to a Thanksgiving dinner.
+
+183
+00:09:16,880 --> 00:09:18,120
+They have emotions about it.
+
+184
+00:09:18,160 --> 00:09:20,080
+And so that's their way into the story.
+
+185
+00:09:20,120 --> 00:09:24,520
+And what's even better is when it comes time to market the short story or market the short story collection.
+
+186
+00:09:24,520 --> 00:09:30,160
+You will have a touch point that you can use for marketing because it's something that readers can latch onto really quickly.
+
+187
+00:09:30,200 --> 00:09:37,560
+For example, the short story collection by Hilary Mantel, The Assassination of Margaret Thatcher, gave a way for readers to immediately connect with that story collection.
+
+188
+00:09:37,600 --> 00:09:40,600
+It's also an element of veracity, right?
+
+189
+00:09:40,640 --> 00:09:47,480
+The reader feels like this story is true because there are real world events and real world people that are inhabiting it.
+
+190
+00:09:47,520 --> 00:09:51,880
+It's just one more thing that convinces the reader what they're reading feels true.
+
+191
+00:09:51,920 --> 00:09:54,400
+Now, I don't mean merely to name drop a famous story.
+
+192
+00:09:54,400 --> 00:09:56,400
+I don't mean to say that a story is a famous person.
+
+193
+00:09:56,440 --> 00:09:58,440
+I don't think that was what Nelson was going for.
+
+194
+00:09:58,480 --> 00:10:00,480
+It has to be pretty central to the story in some way.
+
+195
+00:10:00,520 --> 00:10:09,520
+For my story, there was cheating at the chess tournament, which I feel like tapped into a trending moment because there's been lots of stories of chess cheaters in the last year or two.
+
+196
+00:10:09,560 --> 00:10:15,560
+And yes, news stories or current world events or something is always a great thing to include in your story.
+
+197
+00:10:15,600 --> 00:10:17,600
+The seventh step is to add binary forces.
+
+198
+00:10:17,640 --> 00:10:23,680
+This is just basically a fancy way to say create opposition or opposites inside your short story.
+
+199
+00:10:23,680 --> 00:10:26,760
+The way I like to do this is to make characters who are opposites.
+
+200
+00:10:26,800 --> 00:10:29,440
+It's not the only way, but it's the way I would start with.
+
+201
+00:10:29,480 --> 00:10:34,840
+Consider an uneducated person against an uneducated person, like in Good Country People by Flannery O'Connor.
+
+202
+00:10:34,880 --> 00:10:39,440
+In that story, you have a one legged PhD who gets duped by an uneducated Bible salesman.
+
+203
+00:10:39,480 --> 00:10:42,200
+Or consider innocent versus experienced.
+
+204
+00:10:42,240 --> 00:10:44,440
+In Joyce Carol Oates, Where Are You Going, Where Have You Been?
+
+205
+00:10:44,480 --> 00:10:48,840
+You have this very youthful, very inexperienced 15 year old Connie.
+
+206
+00:10:48,880 --> 00:10:53,680
+And against her in opposition, you have this very experienced, predatory 30 year old man.
+
+207
+00:10:53,720 --> 00:10:54,480
+Arnold Friend.
+
+208
+00:10:54,520 --> 00:10:57,280
+You could have oppositions like closed mind versus open minded.
+
+209
+00:10:57,320 --> 00:11:05,800
+In Cathedral by Raymond Carver, you have one character who is very bigoted and very closed minded and who resents the blind friend of his wife who is coming to town.
+
+210
+00:11:05,840 --> 00:11:08,280
+But the blind man who comes to town is very open minded.
+
+211
+00:11:08,320 --> 00:11:09,400
+He's very insightful.
+
+212
+00:11:09,440 --> 00:11:10,440
+He's very confident.
+
+213
+00:11:10,480 --> 00:11:11,920
+A complete contrast.
+
+214
+00:11:11,960 --> 00:11:14,360
+Or you could set up oppositions like winner versus loser.
+
+215
+00:11:14,400 --> 00:11:21,360
+I don't know if you remember reading this in high school, but the most dangerous game about a man hunting another man on an island for sport.
+
+216
+00:11:21,400 --> 00:11:22,360
+It's a classic.
+
+217
+00:11:22,400 --> 00:11:23,560
+But there we have the opposition.
+
+218
+00:11:23,680 --> 00:11:25,400
+The opposition of hunter versus prey.
+
+219
+00:11:25,440 --> 00:11:29,360
+And we want to keep reading to see whether those roles will be reversed at any point.
+
+220
+00:11:29,400 --> 00:11:36,600
+So when you have binary forces in your story and when you're creating opposites, you are creating tension because those characters are going to butt heads.
+
+221
+00:11:36,640 --> 00:11:42,040
+And the more opposed your characters are, the more chances you have to put them into sharp conflict with each other.
+
+222
+00:11:42,080 --> 00:11:53,200
+That means your job as a writer is to stretch them further apart from each other, to exaggerate their differences, because that space will allow you lots of narrative room to play and have fun and
+
+223
+00:11:53,200 --> 00:11:54,640
+create a little messy conflict.
+
+224
+00:11:54,680 --> 00:11:55,840
+All right, we're almost finished here.
+
+225
+00:11:55,880 --> 00:11:56,640
+Two more steps.
+
+226
+00:11:56,680 --> 00:11:58,480
+The eighth step is Freitag's Pyramid.
+
+227
+00:11:58,520 --> 00:12:02,640
+So a lot of Nelson's advice so far has been focusing on certain portions of the story.
+
+228
+00:12:02,680 --> 00:12:06,320
+Now we're going to look at the story as a whole and think, how do we shape this story?
+
+229
+00:12:06,360 --> 00:12:08,560
+What happens sequentially in a plot?
+
+230
+00:12:08,600 --> 00:12:13,000
+And so Freitag's Pyramid is one option you have for how to structure a storyline.
+
+231
+00:12:13,040 --> 00:12:15,880
+You start with an exposition, which is basically the introduction.
+
+232
+00:12:16,120 --> 00:12:20,480
+You have some sort of rising action, then a climactic moment, the point of no return.
+
+233
+00:12:20,720 --> 00:12:21,880
+Then you have falling action.
+
+234
+00:12:22,040 --> 00:12:22,960
+And then the denouement.
+
+235
+00:12:22,960 --> 00:12:25,120
+At the end, which is basically French for the ending.
+
+236
+00:12:25,160 --> 00:12:28,040
+Now, Freitag's Pyramid is the structure of a tragedy.
+
+237
+00:12:28,080 --> 00:12:33,400
+So it might be that your climax comes 90% of the way through the story rather than right in the middle of the story.
+
+238
+00:12:33,440 --> 00:12:36,080
+So you can obviously change this pyramid as necessary.
+
+239
+00:12:36,120 --> 00:12:38,640
+Another good structure to look at is the seven point plot structure.
+
+240
+00:12:38,680 --> 00:12:42,200
+For that, you start with a hook and then you move through a series of plot turns and pinches.
+
+241
+00:12:42,240 --> 00:12:49,160
+Remember, pitch points are outside events that force your character to take action, while plot events are things that your character does to move the story forward.
+
+242
+00:12:49,200 --> 00:12:52,400
+And I like the way that this one escalates all the way up to plot turn two.
+
+243
+00:12:52,440 --> 00:12:52,920
+Climax.
+
+244
+00:12:52,960 --> 00:12:54,000
+And then resolution.
+
+245
+00:12:54,040 --> 00:12:58,480
+But I will say that a lot of very famous short stories don't follow neat structures like this.
+
+246
+00:12:58,520 --> 00:13:00,360
+Think of John Updike's A&P.
+
+247
+00:13:00,400 --> 00:13:05,560
+It's about a boy working in a convenience store and he watches these girls come in who are extremely beautiful.
+
+248
+00:13:05,600 --> 00:13:08,880
+And there's not exactly rising arc and climax.
+
+249
+00:13:08,920 --> 00:13:11,480
+And I don't know, it's a different type of storyline.
+
+250
+00:13:11,520 --> 00:13:14,760
+It's more of like a snapshot moment than a traditional arc.
+
+251
+00:13:14,800 --> 00:13:17,520
+So I would consider using one of these narrative structures for your story.
+
+252
+00:13:17,560 --> 00:13:19,720
+But don't feel like you absolutely have to.
+
+253
+00:13:19,760 --> 00:13:22,920
+You always have a lot of latitude to change them as necessary to fit the topic.
+
+254
+00:13:23,000 --> 00:13:25,440
+And I think that's the type of story that you're trying to tell.
+
+255
+00:13:25,480 --> 00:13:36,400
+But I will say that with my chess story, it does follow the general rising action to a climax of a cheater exposed at a chess tournament and what happens to that character and then the ending.
+
+256
+00:13:36,440 --> 00:13:42,120
+So a lot of times you do end up following that because it's a great structure to get emotions out of the reader.
+
+257
+00:13:42,160 --> 00:13:43,680
+And here is the very final step.
+
+258
+00:13:43,720 --> 00:13:45,320
+And it's honestly my favorite one.
+
+259
+00:13:45,360 --> 00:13:46,120
+Experiment.
+
+260
+00:13:46,160 --> 00:13:48,720
+In other words, try something crazy.
+
+261
+00:13:48,760 --> 00:13:51,760
+What I like about this is the previous eight steps were pretty definite.
+
+262
+00:13:51,800 --> 00:13:52,720
+Hey, do this.
+
+263
+00:13:52,720 --> 00:13:56,120
+I mean, there's room to be creative, but in general it was very prescriptive.
+
+264
+00:13:56,160 --> 00:14:01,960
+Well, experiment basically says, hey, throw out everything I just told you and try something different.
+
+265
+00:14:02,000 --> 00:14:06,800
+So let me give you some examples of how I've seen experiments go really well in short stories.
+
+266
+00:14:06,840 --> 00:14:08,680
+One, try a hermit crab fiction.
+
+267
+00:14:08,720 --> 00:14:13,760
+These are stories that slip into the shape of another form of writing, like a hermit crab moving to a new shell.
+
+268
+00:14:13,800 --> 00:14:22,400
+You can write a story like a recipe or board game rules or a crossword puzzle or a Craigslist post or a PowerPoint presentation.
+
+269
+00:14:22,720 --> 00:14:25,560
+For example, I can actually do this in a visit to the Goon Squad.
+
+270
+00:14:25,600 --> 00:14:30,680
+You can write it as instructions or advice from a parent like Jamaica Kincaid does this in girl.
+
+271
+00:14:30,720 --> 00:14:33,480
+A second option other than hermit crabs is metafiction.
+
+272
+00:14:33,520 --> 00:14:40,680
+Break the fourth wall and talk directly to the reader or give a character your exact name or point out the implausibility of a coincidence in your story.
+
+273
+00:14:40,720 --> 00:14:41,680
+A third option.
+
+274
+00:14:41,720 --> 00:14:43,280
+Make your narrator unreliable.
+
+275
+00:14:43,320 --> 00:14:44,480
+How are they going to lie?
+
+276
+00:14:44,520 --> 00:14:45,880
+How are they going to slant the truth?
+
+277
+00:14:45,920 --> 00:14:51,240
+To what extent are they unreliable, like wildly unreliable or just fibbing little here and there?
+
+278
+00:14:51,280 --> 00:14:52,480
+A fourth way you can experiment.
+
+279
+00:14:52,480 --> 00:15:03,480
+Try writing within specific restraints, like don't use any words that are longer than two syllables or pick two objects like a splinter and a dinner bell and then somehow find a way to include those in the story.
+
+280
+00:15:03,520 --> 00:15:16,480
+Now, I have to say, for my story, I didn't experiment in any formal or technical way, but I still think this is a great step in the short story writing process because it opens up your mind to all sorts of possibilities for what you can do with a short story.
+
+281
+00:15:16,520 --> 00:15:20,120
+I cannot wait to see all the short stories that you guys create based on this advice.
+
+282
+00:15:20,160 --> 00:15:22,240
+Good luck writing and don't forget to subscribe and like.
