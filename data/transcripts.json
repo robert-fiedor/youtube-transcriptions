@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/build_manifest.py",
-  "count": 1,
+  "count": 2,
   "transcripts": [
     {
       "id": "4PqGPZtyFtw",
@@ -17,6 +17,22 @@
       "json_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.json",
       "srt_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.srt",
       "vtt_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.vtt"
+    },
+    {
+      "id": "bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This",
+      "video_id": "bqoOtJIIIEQ",
+      "title": "How to Play Intervallic Lines With Both Hands (Most Pianists Never Learn This)",
+      "uploader": "Noah Kellman",
+      "source_url": "https://www.youtube.com/watch?v=bqoOtJIIIEQ",
+      "duration_seconds": 647,
+      "duration_label": "10:47",
+      "word_count": 2091,
+      "segment_count": 129,
+      "excerpt": "In this video, I'm going to show you something that's going to completely change the way you approach improvisation. What I'm about to show you in this video is some of the trickiest and most interesting sounding improvisational material that I think you're...",
+      "txt_path": "transcripts/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This.txt",
+      "json_path": "transcripts/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This.json",
+      "srt_path": "transcripts/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This.srt",
+      "vtt_path": "transcripts/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This/bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This.vtt"
     }
   ]
 }
