@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/build_manifest.py",
-  "count": 2,
+  "count": 3,
   "transcripts": [
     {
       "id": "4PqGPZtyFtw",
@@ -18,6 +18,23 @@
       "json_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.json",
       "srt_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.srt",
       "vtt_path": "transcripts/4PqGPZtyFtw/4PqGPZtyFtw.vtt"
+    },
+    {
+      "id": "DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater",
+      "video_id": "DSD_fAtBQc4",
+      "title": "The Ultimate CQC Guide - Metal Gear Solid DELTA Snake Eater",
+      "uploader": "Snake Eater Gaming",
+      "source_url": "https://www.youtube.com/watch?v=DSD_fAtBQc4",
+      "duration_seconds": 1200,
+      "duration_label": "20:00",
+      "word_count": 2597,
+      "segment_count": 270,
+      "excerpt": "The Ultimate CQC Guide for Metal Gear Solid Delta Snake Eater. This might be a long video, there's a lot of different categories and mechanics when it comes to CQC. And then a lot of the different CQC mechanics are related to each other or tie in together....",
+      "txt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.txt",
+      "raw_text_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.txt",
+      "json_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.json",
+      "srt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.srt",
+      "vtt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.vtt"
     },
     {
       "id": "bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This",
