@@ -11,6 +11,8 @@ const els = {
   title: document.querySelector("#title"),
   sourceLabel: document.querySelector("#sourceLabel"),
   sourceLink: document.querySelector("#sourceLink"),
+  rawTextLink: document.querySelector("#rawTextLink"),
+  downloadTextLink: document.querySelector("#downloadTextLink"),
   stats: document.querySelector("#stats"),
   text: document.querySelector("#transcriptText"),
   backButton: document.querySelector("#backButton"),
@@ -56,16 +58,19 @@ function renderList() {
     .map((item) => {
       const isActive = state.selected?.id === item.id;
       return `
-        <button class="transcript-item ${isActive ? "active" : ""}" type="button" data-id="${escapeHtml(item.id)}">
-          <strong>${escapeHtml(item.title || item.id)}</strong>
-          <span>${formatMeta(item)}</span>
-          <em>${escapeHtml(item.excerpt || "")}</em>
-        </button>
+        <div class="transcript-item ${isActive ? "active" : ""}">
+          <button class="transcript-select" type="button" data-id="${escapeHtml(item.id)}">
+            <strong>${escapeHtml(item.title || item.id)}</strong>
+            <span>${formatMeta(item)}</span>
+            <em>${escapeHtml(item.excerpt || "")}</em>
+          </button>
+          <a class="raw-shortcut" href="${escapeAttribute(item.txt_path)}" target="_blank" rel="noreferrer" data-raw-link>TXT</a>
+        </div>
       `;
     })
     .join("");
 
-  els.list.querySelectorAll(".transcript-item").forEach((button) => {
+  els.list.querySelectorAll(".transcript-select").forEach((button) => {
     button.addEventListener("click", () => {
       location.hash = encodeURIComponent(button.dataset.id);
     });
@@ -94,6 +99,9 @@ async function selectTranscript(item) {
   els.sourceLabel.textContent = item.uploader || item.id;
   els.sourceLink.href = item.source_url || "#";
   els.sourceLink.classList.toggle("hidden", !item.source_url);
+  els.rawTextLink.href = item.txt_path;
+  els.downloadTextLink.href = item.txt_path;
+  els.downloadTextLink.setAttribute("download", rawFilename(item));
   els.stats.innerHTML = renderStats(item);
   els.text.innerHTML = `<p>Loading transcript...</p>`;
 
@@ -157,4 +165,17 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function escapeAttribute(value) {
+  return escapeHtml(value).replaceAll("`", "&#096;");
+}
+
+function rawFilename(item) {
+  const title = item.title || item.id || "transcript";
+  const slug = title
+    .replace(/[^A-Za-z0-9._-]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 90);
+  return `${slug || "transcript"}.txt`;
 }

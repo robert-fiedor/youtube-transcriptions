@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>YouTube Transcriptions</title>
     <meta name="description" content="Public transcript archive generated from local YouTube transcriptions.">
-    <link rel="stylesheet" href="assets/styles.css?v=20260627172426">
+    <link rel="stylesheet" href="assets/styles.css?v=20260628161739">
   </head>
   <body>
     <div class="app-shell">
@@ -35,7 +35,11 @@
               <p id="sourceLabel">Select a transcript</p>
               <h2 id="title">Choose a transcript from the list</h2>
             </div>
-            <a class="source-link" id="sourceLink" href="#" target="_blank" rel="noreferrer">Source</a>
+            <div class="reader-actions">
+              <a class="source-link" id="rawTextLink" href="#" target="_blank" rel="noreferrer">Open Raw TXT</a>
+              <a class="source-link" id="downloadTextLink" href="#" download>Download TXT</a>
+              <a class="source-link" id="sourceLink" href="#" target="_blank" rel="noreferrer">Source</a>
+            </div>
           </div>
 
           <article class="transcript-card">
@@ -48,6 +52,6 @@
       </main>
     </div>
 
-    <script type="module" src="assets/app.js?v=20260627172426"></script>
+    <script type="module" src="assets/app.js?v=20260628161739"></script>
   </body>
 </html>

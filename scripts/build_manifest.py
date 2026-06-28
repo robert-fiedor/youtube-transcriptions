@@ -64,6 +64,7 @@ def build_item(json_path: Path) -> dict | None:
         "segment_count": len(segments),
         "excerpt": excerpt(text),
         "txt_path": relative_url(txt_path),
+        "raw_text_path": relative_url(txt_path),
         "json_path": relative_url(json_path),
         "srt_path": relative_url(srt_path),
         "vtt_path": relative_url(vtt_path),
