@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/build_manifest.py",
-  "count": 4,
+  "count": 5,
   "transcripts": [
     {
       "id": "4PqGPZtyFtw",
@@ -35,6 +35,23 @@
       "json_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.json",
       "srt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.srt",
       "vtt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.vtt"
+    },
+    {
+      "id": "P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook",
+      "video_id": "P1qMKFMrpro",
+      "title": "UBIK - novel by Philip K Dick - Audiobook",
+      "uploader": "Audio Xod",
+      "source_url": "https://www.youtube.com/watch?v=P1qMKFMrpro",
+      "duration_seconds": 25693,
+      "duration_label": "7:08:13",
+      "word_count": 67044,
+      "segment_count": 5394,
+      "excerpt": "Blackstone Audio presents UBIC by Philip K. Dick or Tony Boucher 1. Friends, this is cleanup time and we're discounting all our silent electric UBICs by this much money. Yes, we're throwing away the blue book and remember every UBIC on our lot has been used...",
+      "txt_path": "transcripts/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook.txt",
+      "raw_text_path": "transcripts/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook.txt",
+      "json_path": "transcripts/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook.json",
+      "srt_path": "transcripts/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook.srt",
+      "vtt_path": "transcripts/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook/P1qMKFMrpro-UBIK---novel-by-Philip-K-Dick---Audiobook.vtt"
     },
     {
       "id": "_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed",
