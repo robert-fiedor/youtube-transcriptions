@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/build_manifest.py",
-  "count": 3,
+  "count": 4,
   "transcripts": [
     {
       "id": "4PqGPZtyFtw",
@@ -35,6 +35,23 @@
       "json_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.json",
       "srt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.srt",
       "vtt_path": "transcripts/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater/DSD_fAtBQc4-The-Ultimate-CQC-Guide---Metal-Gear-Solid-DELTA-Snake-Eater.vtt"
+    },
+    {
+      "id": "_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed",
+      "video_id": "_R55gdpgwQQ",
+      "title": "Peter Watts: Blindsight (2006) | Audiobook + Subtitles | Read by Zachary Reed",
+      "uploader": "wonkmonk",
+      "source_url": "https://www.youtube.com/watch?v=_R55gdpgwQQ",
+      "duration_seconds": 35868,
+      "duration_label": "9:57:48",
+      "word_count": 96367,
+      "segment_count": 6434,
+      "excerpt": "Blind Sight by Peter Watts, narrated by Zachary Reid. For Lisa, if we're not in pain, we're not alive. This is what fascinates me most in existence, the peculiar necessity of imagining what is, in fact, real. Philip Gurovich, you will die like a dog for no...",
+      "txt_path": "transcripts/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed.txt",
+      "raw_text_path": "transcripts/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed.txt",
+      "json_path": "transcripts/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed.json",
+      "srt_path": "transcripts/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed.srt",
+      "vtt_path": "transcripts/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed/_R55gdpgwQQ-Peter-Watts-Blindsight-2006-Audiobook-Subtitles-Read-by-Zachary-Reed.vtt"
     },
     {
       "id": "bqoOtJIIIEQ-How-to-Play-Intervallic-Lines-With-Both-Hands-Most-Pianists-Never-Learn-This",
