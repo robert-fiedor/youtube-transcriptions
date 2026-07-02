@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>YouTube Transcriptions</title>
     <meta name="description" content="Public transcript archive generated from local YouTube transcriptions.">
-    <link rel="stylesheet" href="assets/styles.css?v=20260628161739">
+    <link rel="stylesheet" href="assets/styles.css?v=20260701093200">
   </head>
   <body>
     <div class="app-shell">
@@ -44,6 +44,27 @@
 
           <article class="transcript-card">
             <div class="stats" id="stats"></div>
+            <section class="section-picker" id="sectionPicker" aria-label="SRT section picker">
+              <div class="section-picker-header">
+                <div>
+                  <p class="section-label">SRT Section</p>
+                  <h3>Copy a timed excerpt</h3>
+                </div>
+                <button class="copy-button" id="copySectionButton" type="button" disabled>Copy Section</button>
+              </div>
+              <div class="section-controls">
+                <label>
+                  <span>Start minute</span>
+                  <input id="sectionStartMinute" type="number" min="0" step="1" value="0" disabled>
+                </label>
+                <label>
+                  <span>Length in minutes</span>
+                  <input id="sectionLengthMinutes" type="number" min="1" step="1" value="10" disabled>
+                </label>
+              </div>
+              <div class="section-meta" id="sectionMeta">Select a transcript to load its SRT file.</div>
+              <pre class="section-output" id="sectionOutput" tabindex="0"></pre>
+            </section>
             <div class="transcript-text" id="transcriptText">
               <p>Transcripts will appear here as readable text. Use the list to switch between videos.</p>
             </div>
@@ -52,6 +73,6 @@
       </main>
     </div>
 
-    <script type="module" src="assets/app.js?v=20260628161739"></script>
+    <script type="module" src="assets/app.js?v=20260701093200"></script>
   </body>
 </html>

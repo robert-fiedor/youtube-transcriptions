@@ -276,6 +276,111 @@ h1 {
   font-size: 0.82rem;
 }
 
+.section-picker {
+  max-width: 880px;
+  margin: 0 auto 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 12px 30px rgba(23, 32, 38, 0.07);
+  padding: 18px;
+}
+
+.section-picker-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.section-label {
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.section-picker h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.copy-button {
+  min-height: 38px;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 800;
+  padding: 0 14px;
+  white-space: nowrap;
+}
+
+.copy-button:disabled {
+  border-color: var(--line);
+  background: #edf0e8;
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+.section-controls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 180px));
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.section-controls label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.section-controls input {
+  width: 100%;
+  height: 38px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0 10px;
+  color: var(--text);
+  background: #fbfcf8;
+}
+
+.section-controls input:focus {
+  outline: 3px solid rgba(242, 184, 75, 0.4);
+  border-color: var(--focus);
+}
+
+.section-meta {
+  min-height: 20px;
+  margin-bottom: 10px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.section-output {
+  min-height: 168px;
+  max-height: 280px;
+  margin: 0;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f8faf4;
+  color: #28323a;
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.84rem;
+  line-height: 1.45;
+  padding: 12px;
+  white-space: pre-wrap;
+}
+
 .transcript-text {
   max-width: 880px;
   margin: 0 auto;
@@ -342,6 +447,23 @@ h1 {
 
   .transcript-card {
     padding: 16px;
+  }
+
+  .section-picker {
+    padding: 14px;
+  }
+
+  .section-picker-header {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .copy-button {
+    width: 100%;
+  }
+
+  .section-controls {
+    grid-template-columns: 1fr;
   }
 
   .transcript-text {

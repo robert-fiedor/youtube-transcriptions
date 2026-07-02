@@ -2,6 +2,9 @@ const state = {
   transcripts: [],
   selected: null,
   query: "",
+  srtEntries: [],
+  selectedSrtText: "",
+  loadToken: 0,
 };
 
 const els = {
@@ -16,6 +19,11 @@ const els = {
   stats: document.querySelector("#stats"),
   text: document.querySelector("#transcriptText"),
   backButton: document.querySelector("#backButton"),
+  sectionStartMinute: document.querySelector("#sectionStartMinute"),
+  sectionLengthMinutes: document.querySelector("#sectionLengthMinutes"),
+  copySectionButton: document.querySelector("#copySectionButton"),
+  sectionMeta: document.querySelector("#sectionMeta"),
+  sectionOutput: document.querySelector("#sectionOutput"),
 };
 
 init();
@@ -46,6 +54,10 @@ els.backButton.addEventListener("click", () => {
 });
 
 window.addEventListener("hashchange", selectFromHash);
+
+els.sectionStartMinute.addEventListener("input", renderSelectedSrtSection);
+els.sectionLengthMinutes.addEventListener("input", renderSelectedSrtSection);
+els.copySectionButton.addEventListener("click", copySelectedSrtSection);
 
 function renderList() {
   const items = filteredTranscripts();
@@ -92,7 +104,11 @@ function selectFromHash() {
 }
 
 async function selectTranscript(item) {
+  const loadToken = state.loadToken + 1;
+  state.loadToken = loadToken;
   state.selected = item;
+  state.srtEntries = [];
+  state.selectedSrtText = "";
   renderList();
 
   els.title.textContent = item.title || item.id;
@@ -104,15 +120,152 @@ async function selectTranscript(item) {
   els.downloadTextLink.setAttribute("download", rawFilename(item));
   els.stats.innerHTML = renderStats(item);
   els.text.innerHTML = `<p>Loading transcript...</p>`;
+  resetSectionPicker(item);
 
   try {
     const response = await fetch(item.txt_path, { cache: "no-store" });
     if (!response.ok) throw new Error(`Transcript request failed: ${response.status}`);
     const text = await response.text();
+    if (state.loadToken !== loadToken) return;
     els.text.innerHTML = formatTranscript(text);
   } catch (error) {
+    if (state.loadToken !== loadToken) return;
     els.text.innerHTML = `<p>${escapeHtml(error.message)}</p>`;
   }
+
+  try {
+    if (!item.srt_path) throw new Error("This transcript has no SRT file.");
+    const response = await fetch(item.srt_path, { cache: "no-store" });
+    if (!response.ok) throw new Error(`SRT request failed: ${response.status}`);
+    const srt = await response.text();
+    if (state.loadToken !== loadToken) return;
+    state.srtEntries = parseSrt(srt);
+    enableSectionPicker(item);
+    renderSelectedSrtSection();
+  } catch (error) {
+    if (state.loadToken !== loadToken) return;
+    state.srtEntries = [];
+    state.selectedSrtText = "";
+    els.sectionMeta.textContent = error.message;
+    els.sectionOutput.textContent = "";
+    els.copySectionButton.disabled = true;
+  }
+}
+
+function resetSectionPicker(item) {
+  const durationMinutes = Math.max(1, Math.ceil((item.duration_seconds || 0) / 60));
+  els.sectionStartMinute.value = "0";
+  els.sectionStartMinute.max = String(Math.max(0, durationMinutes - 1));
+  els.sectionLengthMinutes.value = String(Math.min(10, durationMinutes));
+  els.sectionLengthMinutes.max = String(durationMinutes);
+  els.sectionStartMinute.disabled = true;
+  els.sectionLengthMinutes.disabled = true;
+  els.copySectionButton.disabled = true;
+  els.copySectionButton.textContent = "Copy Section";
+  els.sectionMeta.textContent = "Loading SRT...";
+  els.sectionOutput.textContent = "";
+}
+
+function enableSectionPicker(item) {
+  const durationMinutes = Math.max(1, Math.ceil((item.duration_seconds || 0) / 60));
+  els.sectionStartMinute.disabled = false;
+  els.sectionLengthMinutes.disabled = false;
+  els.sectionStartMinute.max = String(Math.max(0, durationMinutes - 1));
+  els.sectionLengthMinutes.max = String(durationMinutes);
+}
+
+function renderSelectedSrtSection() {
+  if (!state.srtEntries.length) {
+    state.selectedSrtText = "";
+    els.sectionMeta.textContent = "No SRT captions are loaded.";
+    els.sectionOutput.textContent = "";
+    els.copySectionButton.disabled = true;
+    return;
+  }
+
+  const durationSeconds = state.selected?.duration_seconds || state.srtEntries.at(-1)?.end || 0;
+  const startMinute = clampInteger(els.sectionStartMinute.value, 0, Math.max(0, Math.floor(durationSeconds / 60)));
+  const lengthMinutes = clampInteger(els.sectionLengthMinutes.value, 1, Math.max(1, Math.ceil(durationSeconds / 60)));
+  const startSeconds = startMinute * 60;
+  const endSeconds = Math.min(durationSeconds || Number.POSITIVE_INFINITY, startSeconds + lengthMinutes * 60);
+  const selectedEntries = state.srtEntries.filter((entry) => entry.start >= startSeconds && entry.start < endSeconds);
+
+  els.sectionStartMinute.value = String(startMinute);
+  els.sectionLengthMinutes.value = String(lengthMinutes);
+  state.selectedSrtText = selectedEntries.map((entry) => entry.raw).join("\n\n");
+  els.sectionOutput.textContent = state.selectedSrtText;
+  els.copySectionButton.disabled = !state.selectedSrtText;
+  els.copySectionButton.textContent = "Copy Section";
+
+  const range = `${formatClock(startSeconds)} to ${formatClock(endSeconds)}`;
+  const count = `${selectedEntries.length} caption${selectedEntries.length === 1 ? "" : "s"}`;
+  els.sectionMeta.textContent = `${count} selected, ${range}.`;
+}
+
+async function copySelectedSrtSection() {
+  if (!state.selectedSrtText) return;
+  try {
+    await navigator.clipboard.writeText(state.selectedSrtText);
+  } catch (_error) {
+    copyWithFallback(state.selectedSrtText);
+  }
+  els.copySectionButton.textContent = "Copied";
+  window.setTimeout(() => {
+    els.copySectionButton.textContent = "Copy Section";
+  }, 1400);
+}
+
+function copyWithFallback(text) {
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.top = "-999px";
+  document.body.append(textarea);
+  textarea.select();
+  document.execCommand("copy");
+  textarea.remove();
+}
+
+function parseSrt(srt) {
+  return srt
+    .replace(/\r/g, "")
+    .split(/\n{2,}/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => {
+      const lines = block.split("\n");
+      const timingLine = lines.find((line) => line.includes("-->"));
+      if (!timingLine) return null;
+      const [startRaw, endRaw] = timingLine.split("-->").map((part) => part.trim().split(/\s+/)[0]);
+      const start = parseSrtTimestamp(startRaw);
+      const end = parseSrtTimestamp(endRaw);
+      if (!Number.isFinite(start) || !Number.isFinite(end)) return null;
+      return { start, end, raw: block };
+    })
+    .filter(Boolean);
+}
+
+function parseSrtTimestamp(value) {
+  const match = String(value).match(/^(\d{2}):(\d{2}):(\d{2}),(\d{3})$/);
+  if (!match) return Number.NaN;
+  const [, hours, minutes, seconds, milliseconds] = match.map(Number);
+  return hours * 3600 + minutes * 60 + seconds + milliseconds / 1000;
+}
+
+function clampInteger(value, min, max) {
+  const parsed = Number.parseInt(value, 10);
+  if (!Number.isFinite(parsed)) return min;
+  return Math.min(max, Math.max(min, parsed));
+}
+
+function formatClock(totalSeconds) {
+  const seconds = Math.max(0, Math.floor(totalSeconds));
+  const hours = Math.floor(seconds / 3600);
+  const minutes = Math.floor((seconds % 3600) / 60);
+  const remainder = seconds % 60;
+  if (hours) return `${hours}:${String(minutes).padStart(2, "0")}:${String(remainder).padStart(2, "0")}`;
+  return `${minutes}:${String(remainder).padStart(2, "0")}`;
 }
 
 function renderStats(item) {
